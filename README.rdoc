@@ -1,0 +1,3 @@
+== Welcome to Rails School
+
+This is a template made for a rails school lesson

@@ -1,0 +1,5 @@
+%h1 Post a new post(hahahah post 2 times)
+%form#new-post
+  %input{:type => 'text', :name => 'post[title]'}
+  %textarea{:name => 'post[body]'}
+%a.create-new Create Post

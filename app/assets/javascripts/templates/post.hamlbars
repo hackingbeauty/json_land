@@ -1,0 +1,9 @@
+%h5 {{title}}
+%p {{body}}
+Created {{created_at}}
+%div
+  created by {{user.email}}
+%div
+  this user currently owns {{user.balance}} on his ice-crean bank account
+%div
+  favorite drink -> {{favorite_drink}}
